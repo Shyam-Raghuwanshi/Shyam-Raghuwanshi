@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shyam Raghuwanshi</h1>
  
-<a align="right" href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=shyam-raghuwanshi&label=Profile%20Views&color=0&icon=0&pretty=false" />
-</a>
 
 ## 💫 About Me:
 <img align="right" width="400" src="https://media0.giphy.com/media/vrJbsF0hf9bWMjOUvc/giphy.gif?cid=ecf05e47n0yq0kg3yobl1kq1oisn4y6q8qp2bqqoa2p44ocq&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIG" />
@@ -27,7 +24,7 @@
 
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shyam-raghuwanshi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shyam-raghuwanshi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shyam-raghuwanshi) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shyam_raghuonec) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shyam_raghuonec) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shyam-raghuwanshi) 
 
 
   # 💻 Tech Stack:
@@ -44,3 +41,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shyam-raghuwanshi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+<a align="right" href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=shyam-raghuwanshi&label=Profile%20Views&color=0&icon=0&pretty=false" />
+</a>
+ 
+---
