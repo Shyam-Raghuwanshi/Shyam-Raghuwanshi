@@ -4,11 +4,7 @@
 ## 💫 About Me:
 <img align="right" width="400" src="https://media0.giphy.com/media/vrJbsF0hf9bWMjOUvc/giphy.gif?cid=ecf05e47n0yq0kg3yobl1kq1oisn4y6q8qp2bqqoa2p44ocq&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIG" />
 
-- 🔭 I’m currently working on **open Source Projects**
-
-- 🌱 I’m currently learning **My-SQL**
-
-- 👯 I’m looking to collaborate on **playAtHome**
+- 🔭 I’m currently working on **open Source Projects** 
 
 - 🤝 I’m looking for help in **GSOC**
 
