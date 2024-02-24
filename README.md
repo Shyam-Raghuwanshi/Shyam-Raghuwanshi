@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **FULL-STACK**
 
-- 📫 How to reach me **shyamraghuonec@gmail.com**
-
 - 📄 Know about my experiences [My Resume](https://shyam-dev.vercel.app/Shyam-Raghuwanshi.pdf)
 
 - ⚡ Fun fact **I want ?**
